@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto voltado para mostrar velocidade na digitação com foco no Java Script, além do HTML e CSS.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+- [visite o projeto online] (https://gsilvaol.github.io/Testando-sua-velocidade-na-digita-o/)
